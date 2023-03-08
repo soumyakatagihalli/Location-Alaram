@@ -1,10 +1,10 @@
 # Location-Alaram
 
-#Introduction:
+# Introduction:
 
 Location alarm is a system that triggers an alarm when a person reaches a specific location. This system can be implemented using various algorithms and technologies. In this case, we will be using the Depth First Search (DFS) algorithm to implement the location alarm system.
 
-#Problem Statement:
+# Problem Statement:
 
 The problem statement is to implement a location alarm system that triggers an alarm when a person reaches a specific location. The system should be able to handle a large number of locations and efficiently determine when the person has reached the target location.
 
